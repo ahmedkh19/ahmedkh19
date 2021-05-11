@@ -31,11 +31,4 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="ahmedkh19's GitHub Stats" src="https://github-readme-stats.ahmedkh19.vercel.app/api?username=ahmedkh19&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://thinkvolc.com
