@@ -4,9 +4,7 @@
 
 ## I'm a Developer, and Cyber Security !!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱I'm currently improving my server administrator skills 
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Start with our real project.
 - ⚡ Fun fact: I love to watch anime, play games
 
