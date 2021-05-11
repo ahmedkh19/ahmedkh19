@@ -6,7 +6,7 @@
 
 - 🌱I'm currently improving my server administrator skills 
 - 🥅 2021 Goals: Start with our real project.
-- ⚡ Fun fact: I love to watch anime, play games
+- ⚡ Fun fact: I love watching anime, play games
 
 <br />
 
