@@ -5,7 +5,7 @@
 ## I'm a Developer, and Cyber Security !!
 
 - 🌱I'm currently improving my server administrator skills 
-- 🥅 2021 Goals: Start with our real project.
+- 🥅 2022 Goals: Continue my real project.
 - ⚡ Fun fact: I love watching anime, play games
 
 <br />
