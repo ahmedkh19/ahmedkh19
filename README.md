@@ -27,7 +27,7 @@
 - Backend Web Development: PHP, Node.js, MongoDB
 - APIs, Payment Gateways Integration
 - Quiz and Exam Simulation Development
-- 
+
 <br />
 ### 💡 Interests:
 - Audiobooks, Reading, Gaming, Coding, Web Development
