@@ -1,14 +1,36 @@
-### Hi there, I'm Ahmed - [ahmedkh19][website] 🇸🇦👋
+### 🌟 Ahmed Yahya Khan | Backend Web Developer - [ahmedkh19][website] 🇸🇦🌟
 
 [![Website](https://img.shields.io/website?label=thinkvolc.com&style=for-the-badge&url=https%3A%2F%2Fthinkvolc.com)](https://thinkvolc.com)
 
-## I'm a Developer, and Cyber Security !!
+## 👋 Hi, I'm Ahmed, a backend web developer with a passion for learning and growing. I have hands-on experience in PHP, Node.js, and MongoDB through freelance projects and collaboration on a mathematics-focused learning management system for high school students.
 
-- 🌱I'm currently improving my server administrator skills 
-- 🥅 2022 Goals: Continue my real project.
+
+### 🔧 Work Experience:
+- Backend Web Developer at Elmonsf.com (July 2022 - Present)
+- Freelance Backend Web Developer at Mostaql (November 2017 - January 2020)
 
 <br />
 
+### 🚀 Key Projects:
+- Mathematics-focused learning management system
+- Various backend web development projects using PHP, Node.js, and MongoDB
+
+<br />
+
+### 🏅 Achievements:
+- Gold Medalist, National Olympiad in Informatics (December 2019 - January 2020)
+- Participant, Gulf Camp for Artificial Intelligence in Public Education (July 2022 - August 2022)
+
+<br />
+
+### 💻 Technical Skills:
+- Backend Web Development: PHP, Node.js, MongoDB
+- APIs, Payment Gateways Integration
+- Quiz and Exam Simulation Development
+
+### 💡 Interests:
+- Audiobooks, Reading, Gaming, Coding, Web Development
+- 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
